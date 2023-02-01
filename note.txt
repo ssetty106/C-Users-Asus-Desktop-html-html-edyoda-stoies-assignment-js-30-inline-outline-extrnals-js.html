@@ -1,0 +1,38 @@
+  JAVA SCRIPT
+
+INTRO TO THE JAVA SCRIPT:
+         
+         Js is the powerfull programming lunguages that can added interactivity the website.
+         this happens in a games,in the behaviour of responses when the button preesed (or) with data entry forms and dynamic styling ...
+        
+        java script is the most popular web technologies 
+         as your js skills grow ,your websites will enter
+         a new dimensions nad power and creativity.
+
+         it was invented by braandon eich.
+
+         js is free for evryone,.you dont have to get or download java script.
+
+         js is logic is behind....
+
+2.how to add js;
+        
+        inline js 
+        internal js 
+        extrnal js 
+
+        a.inline js:
+              
+              <button onclick="alert('say hi form inline js')";>say hi!</button>
+
+              <button onclick="alert('hii from inlone js')"; conssole.log('hii forme inline js');>say hi!</button>
+
+        b.internal js:
+
+            <script>
+               alert('say hi frome intrnal js');
+            </script>
+
+        c.external js;
+
+             <script src="file name ...script.js"</script>
